@@ -1,6 +1,7 @@
 ---
 title: How to log SQL statements with parameter values in Hibernate?
 ---
+
 <table>
     <tr>
         <td><img src="pictures/hibernate_log_0.gif" alt=""></td>
