@@ -1,4 +1,4 @@
-# How to print a query string with parameter values when using Hibernate?
+# How to log SQL statements with parameter values in Hibernate?
 
 <table>
     <tr>
