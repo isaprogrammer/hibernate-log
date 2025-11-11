@@ -23,6 +23,8 @@ With this plugin, debugging and performance tuning of Hibernate queries becomes 
 
 ---
 
+<iframe width="245px" height="48px" src="https://plugins.jetbrains.com/embeddable/install/28166"></iframe>
+
 <table>
     <tr>
         <td><img src="pictures/hibernate_log_3.gif" alt=""></td>
